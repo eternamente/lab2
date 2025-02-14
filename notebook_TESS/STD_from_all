@@ -1,0 +1,30 @@
+HATP12_TESS_sector50
+
+
+STD SAP biweight, window=1.0: 0.002672
+STD SAP biweight, window=1.5: 0.002682
+STD SAP hspline, window=1.0 : 0.002675
+STD SAP hspline, window=1.5 : 0.002692
+
+STD PDCSAP biweight, window=1.0: 0.002672
+STD PDCSAP biweight, window=1.5: 0.002682
+-------
+STD PDCSAP hspline, window=0.8 : 0.002673
+STD PDCSAP hspline, window=1.0 : 0.002675
+STD PDCSAP hspline, window=1.5 : 0.002692
+
+
+HATP12_TESS_sector49
+
+STD SAP biweight, window=1.0: 0.002672
+STD SAP biweight, window=1.5: 0.002682
+STD SAP hspline, window=1.0 : 0.002675
+STD SAP hspline, window=1.5 : 0.002692
+
+
+STD PDCSAP biweight, window=1.0: 0.002672
+STD PDCSAP biweight, window=1.5: 0.002682
+-------
+STD PDCSAP hspline, window=0.8 : 0.002673
+STD PDCSAP hspline, window=1.0 : 0.002675
+STD PDCSAP hspline, window=1.5 : 0.002692
